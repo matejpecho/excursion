@@ -26,3 +26,10 @@ a {
     font-size: 21px;
     color: gray;
 }
+
+footer p {
+    font-size: 18px;
+    margin: 10px;
+    text-align: right;
+    color: gray;
+}
